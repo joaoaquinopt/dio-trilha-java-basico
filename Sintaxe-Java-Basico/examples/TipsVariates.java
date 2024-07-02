@@ -1,4 +1,4 @@
-package src;
+package examples;
 
 public class TipsVariates {
 

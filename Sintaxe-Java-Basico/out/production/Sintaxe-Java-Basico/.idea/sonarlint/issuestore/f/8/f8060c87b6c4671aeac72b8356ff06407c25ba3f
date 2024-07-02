@@ -1,0 +1,25 @@
+
+„
+java:S4973_"<Strings and Boxed types should be compared using "equals()".(÷¿ÇÉùÿÿÿÿ8ò¬”Ÿ‡2J$4f15e307-cf77-41db-a8ea-7aeb75947580
+„
+java:S4973c"<Strings and Boxed types should be compared using "equals()".(ôõÒıÿÿÿÿ8ó¬”Ÿ‡2J$49994f7f-1a76-4897-b2bb-dcbf932fd3c2
+
+java:S4973g"<Strings and Boxed types should be compared using "equals()".(òÕÈî8ó¬”Ÿ‡2J$15d3b425-4828-43ec-918d-d3db0d1e3efe
+€
+java:S2589z"8Remove this expression which always evaluates to "false"(ÚĞóšøÿÿÿÿ8­”Ÿ‡2J$65851ecb-e0e7-4d93-ae60-3515bc82940a
+
+java:S2589z"7Remove this expression which always evaluates to "true"(ÚĞóšøÿÿÿÿ8­”Ÿ‡2J$8867d09b-e2a7-47d9-bd11-a22cc98a239c
+
+java:S2589~"7Remove this expression which always evaluates to "true"(´Şûúÿÿÿÿ8­”Ÿ‡2J$968faeef-6400-4466-b58e-1c2df8066250
+g
+java:S16596"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8’­”Ÿ‡2J$d033d187-7034-472b-b11f-0a12bb470c3b
+}	java:S125"<This block of commented-out lines of code should be removed.(ÿÜ‹8”­”Ÿ‡2J$a00272bb-f7f6-474d-ba5e-c6b30191e9bb
+ƒ	java:S125<"<This block of commented-out lines of code should be removed.(ñ•ôşÿÿÿÿ8•­”Ÿ‡2J$6d8128ce-23e7-43b2-b74a-25ce3b867ebe
+~	java:S125C"<This block of commented-out lines of code should be removed.(Ù³•Ñ8•­”Ÿ‡2J$8eb5c2ba-bd10-4fa1-8d7a-0a97f4c308e5
+h
+java:S2129a" Remove this "String" constructor(Å’ïùÿÿÿÿ8˜­”Ÿ‡2J$7511af85-da0a-4800-b340-c42e9767ed59
+_
+java:S1116{"Remove this empty statement.(”ùµí8›­”Ÿ‡2J$b2901752-4a3a-49ae-932d-e057730440f1
+	java:S125‚"<This block of commented-out lines of code should be removed.(—ªéÇ8Ñı–Ÿ‡2J$9fb1c70e-e421-40db-b5b7-f4796a179a26
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8­”Ÿ‡2J$e65a74b9-8026-42c5-bde2-310225e3e6d0
