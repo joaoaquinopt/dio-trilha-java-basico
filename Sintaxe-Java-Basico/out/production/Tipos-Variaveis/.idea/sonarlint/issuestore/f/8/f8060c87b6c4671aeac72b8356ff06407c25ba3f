@@ -1,0 +1,57 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ö›Ÿıÿÿÿÿ8îÂï‡2J$844034dd-90d2-44cb-8d9d-cacf0875845a
+…
+java:S2184"BCast one of the operands of this addition operation to a "double".(İùá´8ğÂï‡2J$7c010b0e-c967-4015-bc58-3f619e2b5b2c
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Ì•ˆš8şÂï‡2J$7bb31b6c-ef6f-471e-8283-661a242950ba
+€
+java:S1854"=Remove this useless assignment to local variable "resultado".(İùá´8€Ãï‡2J$861b9be4-a122-4fb1-96a9-5ab974e97af8
+}
+java:S1854":Remove this useless assignment to local variable "modulo".(»Áá8€Ãï‡2J$af9e36e0-7590-4e43-b2bb-dc9729701d30
+~
+java:S1854";Remove this useless assignment to local variable "divisao".(Ú€Èü8€Ãï‡2J$563f6da3-e756-4d17-a374-4f0cc8dc45d5
+„
+java:S1854"ARemove this useless assignment to local variable "multiplicacao".(¢†Ù—8€Ãï‡2J$a3604ec1-7d64-4f03-9b23-affffb6a3bf6
+‡
+java:S1854"?Remove this useless assignment to local variable "subtraÃ§Ã£o".(×ö›Ÿıÿÿÿÿ8€Ãï‡2J$3fc5026e-da00-4fb2-9cee-953524d34c8f
+{
+java:S1854"8Remove this useless assignment to local variable "soma".(è›8€Ãï‡2J$4a9c3162-4e8d-4b5c-83ef-cb0a6b87b098
+Š
+java:S1854"BRemove this useless assignment to local variable "dataNascimento".(û¢»àùÿÿÿÿ8€Ãï‡2J$80a9d372-dea8-41af-b2bc-8e77a4e28e85
+€
+java:S1854"8Remove this useless assignment to local variable "sexo".(§•½•üÿÿÿÿ8€Ãï‡2J$1e74a9ca-7dc5-4363-bb8b-9c6f7641582f
+€
+java:S1854"8Remove this useless assignment to local variable "peso".(…ÇŞÍşÿÿÿÿ8€Ãï‡2J$1ceca6d1-5faf-434e-a05d-a894de8ab4fc
+|
+java:S1854"9Remove this useless assignment to local variable "idade".(ø’ô‚8Ãï‡2J$6a3b3bd7-6615-4dff-a055-495d88ad3282
+z
+java:S1854
+"8Remove this useless assignment to local variable "nome".(ÿÜ‹8Ãï‡2J$60230d40-88b0-41b4-a19e-fd454da40772
+n
+java:S1172"+Remove this unused method parameter "args".(úˆï…8†Ãï‡2J$989a84ef-125a-4b71-8069-aa80eed7c8a9
+k
+java:S1481
+")Remove this unused "nome" local variable.(ÿÜ‹8‡Ãï‡2J$2534ee60-5f53-46be-af93-b965a52654fa
+m
+java:S1481"*Remove this unused "idade" local variable.(ø’ô‚8‡Ãï‡2J$2828bfe9-a4fd-410d-8015-a0c41d7dc42e
+q
+java:S1481")Remove this unused "peso" local variable.(…ÇŞÍşÿÿÿÿ8ˆÃï‡2J$761f337d-c8eb-4549-9e82-2b4914fd8b73
+q
+java:S1481")Remove this unused "sexo" local variable.(§•½•üÿÿÿÿ8ˆÃï‡2J$171eab9a-58a5-41e0-8082-87e9258ba45c
+x
+java:S1481"0Remove this unused "doadorOrgao" local variable.(­àæ÷ÿÿÿÿÿ8ˆÃï‡2J$cb9ada8d-e6e6-4cea-83fb-7b9fc5ba9e6a
+{
+java:S1481"3Remove this unused "dataNascimento" local variable.(û¢»àùÿÿÿÿ8‰Ãï‡2J$95da0bec-e66d-4510-b599-03009c187e2b
+l
+java:S1481")Remove this unused "soma" local variable.(è›8ŠÃï‡2J$988e60a1-c6c1-4ef2-8717-739f7df1c703
+x
+java:S1481"0Remove this unused "subtraÃ§Ã£o" local variable.(×ö›Ÿıÿÿÿÿ8ŠÃï‡2J$1a79484c-9f5e-4ac5-aad0-811aa5e47e13
+u
+java:S1481"2Remove this unused "multiplicacao" local variable.(¢†Ù—8ŠÃï‡2J$7af1b83b-0288-40f1-ac74-907370df45a6
+o
+java:S1481",Remove this unused "divisao" local variable.(Ú€Èü8‹Ãï‡2J$34c43055-b27b-4875-a824-4aae08f2b1c9
+n
+java:S1481"+Remove this unused "modulo" local variable.(»Áá8‹Ãï‡2J$ac5d8607-fd64-467e-adfc-ba2505d9b457
+q
+java:S1481".Remove this unused "resultado" local variable.(İùá´8‹Ãï‡2J$b11d7169-7909-49a4-8d05-e61851bbaee7
+~	java:S125 "<This block of commented-out lines of code should be removed.(½÷ºâ8ŒÃï‡2J$923fb8ec-4f18-4d59-9ee7-87428adb1da0

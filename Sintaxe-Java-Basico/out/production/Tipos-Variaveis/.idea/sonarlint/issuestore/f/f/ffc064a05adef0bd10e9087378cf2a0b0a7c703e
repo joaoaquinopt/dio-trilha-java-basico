@@ -1,0 +1,25 @@
+
+‚
+java:S1854"?Remove this useless assignment to local variable "VALOR_DE_PI".(•Άλ½8Αώ‡2J$8ce60d5d-ae71-4335-847a-8929f8fbc3b3
+~
+java:S1854";Remove this useless assignment to local variable "salario".(Γσ8ΰ²ς‡2J$d1b0b6f4-7ae0-4a14-99f3-e928613e5ab0
+y
+java:S1854	"7Remove this useless assignment to local variable "cpf".(¬Ò“+8α²ς‡2J$c02f155d-0281-447f-846a-36504c35daf7
+
+java:S1854"7Remove this useless assignment to local variable "cep".(ήδωÿÿÿÿ8α²ς‡2J$748a7f35-043f-464f-89bd-4043456cfe4c
+z
+java:S1854"7Remove this useless assignment to local variable "ano".(€υτΨ8α²ς‡2J$96ab5535-b3e7-445a-a9b8-f2a30fe25464
+{
+java:S1854"9Remove this useless assignment to local variable "idade".(κ€μE8α²ς‡2J$9e794c78-e168-47bd-93b8-9e88ba8d72b4
+l
+java:S1481"*Remove this unused "idade" local variable.(κ€μE8δ²ς‡2J$776fb192-d081-4f1a-aff4-9abc4377a5eb
+k
+java:S1481"(Remove this unused "ano" local variable.(€υτΨ8δ²ς‡2J$3af391de-7bfd-46d3-be44-cf90199085e5
+p
+java:S1481"(Remove this unused "cep" local variable.(ήδωÿÿÿÿ8δ²ς‡2J$6052daef-57d8-4e25-87f4-efd52ebeedd5
+j
+java:S1481	"(Remove this unused "cpf" local variable.(¬Ò“+8ε²ς‡2J$faeac2a0-07b4-4df4-944c-7eb1419cb81b
+o
+java:S1481",Remove this unused "salario" local variable.(Γσ8ε²ς‡2J$a658eb41-4916-457b-bbfa-f851671c7bf3
+s
+java:S1481"0Remove this unused "VALOR_DE_PI" local variable.(•Άλ½8Εώ‡2J$f62e070e-3592-43a2-ae43-89c4b024f032
