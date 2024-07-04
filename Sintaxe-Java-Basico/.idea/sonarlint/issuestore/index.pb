@@ -13,16 +13,6 @@ I
 examples/MinhaClasse.java,3\c\3ce46ce83cc5e1d2a2b8f96d2a2d77b5c0a75eb2
 E
 examples/AboutMe.java,e\c\ec263b006592c6b69a0a67333c9ba54ae9c77c26
-S
-#controle_fluxo/CaixaEletronico.java,c\2\c2230f0ac68800e6335c12f2cb107fe9c2079268
-T
-$controle_fluxo/ResultadoEscolar.java,0\2\0227afde4635d5d9904e9c8cd6a8129f748bf12c
-P
- controle_fluxo/SistemaMedia.java,7\5\752cc4494dc995ce8e68daf2ed44ff8f4c843cff
-R
-"controle_fluxo/PlanoOperadora.java,8\5\85d10bae448cb858ef08ab8042fb02c80af39904
-k
-;controle_fluxo/estruturas-condicionais/CaixaEletronico.java,5\6\56e21f913e1557e200240c8da8a44795de6afc36
 k
 ;controle_fluxo/estruturas_condicionais/CaixaEletronico.java,9\b\9b2f99f58ff5b1cd3d540bfaf730b2f20bbac75d
 j
@@ -47,7 +37,13 @@ g
 7controle_fluxo/estruturas_repeticao/ExemploExcecao.java,2\e\2efd2512c82eed9d577c8a79267ca3f36fcfd6c3
 m
 =controle_fluxo/estruturas_repeticao/CepInvalidoException.java,4\c\4c75a979ad6dafcaf7ed28e516e236ddb86d8d37
-e
-5controle_fluxo/estruturas_repeticao/FormartarCEP.java,4\3\43bdb13945415575a349836e973dac44761c68e3
 g
 7controle_fluxo/estruturas_repeticao/FormartadorCEP.java,1\d\1d2de2d4d526680049b76800dce3ef59b29c83e6
+T
+$desafios/VerificadorNumeroConta.java,2\d\2dc6c0bc6bd1f4a134b95ee63b2c76c2c16ca214
+[
++desafios/VerificadorElegibilidadeConta.java,6\6\6605a9ed0e09d784c7c4b49de0095a47469aadcb
+W
+'desafios/VerificacaoChequeEspecial.java,2\b\2b0ec5beaa6c48ae49aaacfed2cb34f0cd318d7b
+R
+"desafios/ControleSimplesSaque.java,7\2\720ea1674c730487247bfd88f1a0ba98abd3bbec
